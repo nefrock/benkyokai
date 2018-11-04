@@ -57,3 +57,4 @@ Nefrock Lab Ookayamaでは, 隔週の金曜日に様々なジャンルの専門�
 * 2018-09-21 Kubernetes入門
 * 2018-10-12 word2vec、fasttextを用いた単語の分散表現
 * 2018-10-26 word2vecを使用したテキスト分類器の紹介
+* 2018-11-09 fusion360を使った3D工作/3Dプリント入門
